@@ -126,7 +126,7 @@ final Map objekct = {
     'jony': [cm,spases]
   }
 },
-[name,age]: massivesix,
+
 
 };
 
@@ -139,30 +139,14 @@ final Map objekct = {
 // print(objekct[45][44]['jony']);
 // print(objekct[45][44][65][78][25][20.2]);
 // print(objekct[45][44][65][78][25][1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
-// print(objekct[1]);
+// print(objekct[45][44][65][78][25][1][90]);
+// print(objekct[45][44][65][78][25][1][90][234234]);
+// print(objekct[45][44][65][78][25][1][90]['wtf']);
+// print(objekct[45][44][65][78][25][1][90][52]);
+// print(objekct[45][44][65][78][25][1][90][52]['dacha']);
+// print(objekct[45][44][65][78][25][1][90][52][sisterage]);
+// print(objekct[45][44][65][78][25][1][90][52][sisterage][false]);
+
  
 
 
